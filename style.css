@@ -1,0 +1,49 @@
+body{
+    background-color:#e6e6e6;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Shadows Into Light', cursive;
+    height: 100%;
+}
+
+.container{
+    margin: 20px;
+    padding: 0;
+    align-items: center;
+    width: 100%;
+}
+
+#restart{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.header{
+    text-align: center;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+
+#points{
+    width:100%;
+    text-align: center;
+    height: 50px;
+}
+
+#message{
+    margin-top: 20px;
+}
+
+.btn.btn-outline-danger.btn-sm{
+    margin-bottom:20px;
+}
+
+canvas{
+    border:3px solid #fff;
+}
+
