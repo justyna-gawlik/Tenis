@@ -9,7 +9,7 @@
 - [Features](#features)
 - [Inspiration](#inspiration)
 
-![](pong/.gif)
+![](pong.gif)
 
 ## Technologies
 
