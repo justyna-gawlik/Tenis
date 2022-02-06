@@ -20,8 +20,6 @@
 
 To run this project install it locally and open index.html live server using for example Visual Studio Code or Atom.
 
-You can also play it here: http://justynagawlik.pl/
-
 ## Features
 
 - Move your paddle using computer mouse 🖱️
